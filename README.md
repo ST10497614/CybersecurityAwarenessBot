@@ -28,3 +28,4 @@ At startup, the app:
 - `Model/UserProfile.cs` - Basic user model
 - `CybersecurityAwarenessBot.csproj` - Project configuration and dependencies
 
+https://youtu.be/uxjxcbY3XBY?si=p5bCJUMUewGXUsfn
